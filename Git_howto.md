@@ -16,5 +16,8 @@ git commit -m "Message"
 ```sh
 git log
 ```
+Вызывает журнал сокращенный журнал изменений:
+```sh
 git logg --oneline
+```
 git checkout
