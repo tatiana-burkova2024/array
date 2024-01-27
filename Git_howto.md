@@ -8,7 +8,10 @@ git init
 ```sh
 git add
 ```
+Фиксирует и сохраняет изменения совместно с комментарием:
+```sh
 git commit -m "Message"
+```
 git log
 git logg --oneline
 git checkout
