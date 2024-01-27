@@ -4,7 +4,10 @@
 ```sh
 git init
 ```
+Добавляет содержимое каталога:
+```sh
 git add
+```
 git commit -m "Message"
 git log
 git logg --oneline
