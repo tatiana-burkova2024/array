@@ -12,6 +12,9 @@ git add
 ```sh
 git commit -m "Message"
 ```
+Помогает вызвать журнал изменений:
+```sh
 git log
+```
 git logg --oneline
 git checkout
