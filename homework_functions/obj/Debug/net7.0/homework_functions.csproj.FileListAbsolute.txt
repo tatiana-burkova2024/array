@@ -1,0 +1,14 @@
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.AssemblyInfoInputs.cache
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.AssemblyInfo.cs
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.csproj.CoreCompileInputs.cache
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\bin\Debug\net7.0\homework_functions.exe
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\bin\Debug\net7.0\homework_functions.deps.json
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\bin\Debug\net7.0\homework_functions.runtimeconfig.json
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\bin\Debug\net7.0\homework_functions.dll
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\bin\Debug\net7.0\homework_functions.pdb
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.dll
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\refint\homework_functions.dll
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.pdb
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\homework_functions.genruntimeconfig.cache
+C:\Users\дом\Desktop\GIT_EDUCATION\homework_functions\obj\Debug\net7.0\ref\homework_functions.dll
